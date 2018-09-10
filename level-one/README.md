@@ -8,4 +8,4 @@ These challenges involve basic ES6+ front-end examples
 
 Good luck!
 
-> Note: Please go through a PR to submit your solved copy thanks!
+> Note: Please go through a PR to submit your solved copy if you do not have access, thanks!

@@ -14,3 +14,4 @@ However how can you make it better?
 - If mutation is a MUST is it doing it in a safe way?
 - Are the function pure in form and preventing mutation?
 - Is this the best way?
+- You're free to change the code as you please just make sure the original result happens
