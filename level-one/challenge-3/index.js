@@ -17,3 +17,9 @@ function foo() {
     return 'It\'s a snake!'
   }
 }
+
+console.log(test)
+
+// Expected result output to console:
+// 'It's good'
+// 'It's a snake!'
