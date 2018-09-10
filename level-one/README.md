@@ -7,3 +7,5 @@ And above that, how will you learn to make it better yourself, or what to look f
 These challenges involve basic ES6+ front-end examples
 
 Good luck!
+
+> Note: Please go through a PR to submit your solved copy thanks!
