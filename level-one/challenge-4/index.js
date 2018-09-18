@@ -1,4 +1,4 @@
-// The goal of this code is if you pass a string to a function, it adds it tot he array
+// The goal of this code is if you pass a string to a function, it adds it to the array
 // If you pass the function the same string, it will then remove the value from the array
 
 const selected = []
