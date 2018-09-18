@@ -11,5 +11,6 @@ for (let i = 0; i < animals.length; i++) {
 }
 
 // ==== DO NOT EDIT BETWEEN THESE LINES
+// Output expected: ['Lions', 'Zebras', 'Tigers', 'Ducks']
 console.log(results)
 // ==== Okay you can edit again
