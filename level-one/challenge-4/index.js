@@ -4,6 +4,8 @@
 const selected = []
 
 const toggle = (item, list) => {
+  
+  
   const idx = list.indexOf(item)
 
   if (idx > -1) {
